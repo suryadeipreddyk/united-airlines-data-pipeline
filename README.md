@@ -1,8 +1,8 @@
-# United Airlines Data Engineering Project  
+# United Airlines Data Ingestion Project  
 
 This project automates the ingestion, transformation, and analysis of flight data using AWS services. It processes raw flight data, enriches it with airport details, and loads it into **Amazon Redshift** for advanced analytics. The pipeline is fully automated using **AWS Step Functions** and triggered by **EventBridge** when new data is uploaded to S3.
 
-For a detailed breakdown of the project, visit the [**United Airlines Data Engineering Documentation**](https://devengine.notion.site/United-Airlines-Data-Engineering-Pipeline-1a432fa580888090ba20c239d1ef1a6e?pvs=4).
+For a detailed breakdown of the project, visit the [**United Airlines Data Ingestion Documentation**](https://devengine.notion.site/United-Airlines-Data-Ingestion-Pipeline-1a432fa580888090ba20c239d1ef1a6e?pvs=4).
 
 ---
 
@@ -16,10 +16,10 @@ The entire workflow is orchestrated using **AWS Step Functions**, which automate
 ## **Architecture Diagram**  
 Below is the architecture diagram for the project:  
 
-![United Airlines Data Engineering Architecture](docs/architecture.png)  
+![United Airlines Data Ingestion Architecture](docs/architecture.png)  
 
 ---
 
-For a detailed breakdown of the project, visit the [**United Airlines Data Engineering Documentation**](https://devengine.notion.site/United-Airlines-Data-Engineering-Pipeline-1a432fa580888090ba20c239d1ef1a6e?pvs=4).
+For a detailed breakdown of the project, visit the [**United Airlines Data Ingestion Documentation**](https://devengine.notion.site/United-Airlines-Data-Ingestion-Pipeline-1a432fa580888090ba20c239d1ef1a6e?pvs=4).
 
 ---
