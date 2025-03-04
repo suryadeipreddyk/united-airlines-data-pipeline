@@ -20,6 +20,8 @@ Below is the architecture diagram for the project:
 
 ---
 
+![Architecture](https://viewer.diagrams.net/?border=0&tags=%7B%7D&lightbox=1&highlight=0000ff&layers=1&nav=1&title=United%20Airlines%20Data%20Ingestion%20Pipeline.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1VLxLp7ILBug2WCIAvYPFVfwkRqX7FiXN%26export%3Ddownload)
+
 For a detailed breakdown of the project, visit the [**United Airlines Data Ingestion Documentation**](https://devengine.notion.site/United-Airlines-Data-Ingestion-Pipeline-1a432fa580888090ba20c239d1ef1a6e?pvs=4).
 
 ---
