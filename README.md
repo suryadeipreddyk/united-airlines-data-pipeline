@@ -16,7 +16,7 @@ The entire workflow is orchestrated using **AWS Step Functions**, which automate
 ## **Architecture Diagram**  
 Below is the architecture diagram for the project:  
 
-![United Airlines Data Ingestion Architecture](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&target=blank&highlight=0000ff&layers=1&nav=1&title=United%20Airlines%20Data%20Ingestion%20Pipeline.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1VLxLp7ILBug2WCIAvYPFVfwkRqX7FiXN%26export%3Ddownload)  
+![United Airlines Data Ingestion Architecture](https://github.com/suryadeipreddyk/united-airlines-data-pipeline/blob/38a0eadfd7f7c047a360d1d60ec05c1b1b037954/United%20Airlines%20Data%20Ingestion%20Architecture.jpg)  
 
 ---
 
